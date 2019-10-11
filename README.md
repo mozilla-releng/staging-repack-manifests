@@ -1,1 +1,1 @@
-This is a set of partner repack manifests for staging releases.
+This moved to https://github.com/moz-releng-automation-stage/repack-manifests.
